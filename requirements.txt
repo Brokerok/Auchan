@@ -1,0 +1,11 @@
+certifi==2022.9.24
+charset-normalizer==2.1.1
+filelock==3.8.0
+idna==3.4
+loguru==0.6.0
+pickle5==0.0.11
+platformdirs==2.5.4
+requests==2.28.1
+uritools==4.0.0
+urlextract==1.7.1
+urllib3==1.26.12
